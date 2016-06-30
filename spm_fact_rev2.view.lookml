@@ -1,5 +1,5 @@
 - view: spm_fact_rev2
-  sql_table_name: demo_abi_tip.spm_fact
+  sql_table_name: spm.spm_fact
   fields:
 #########################################
 #                                       #
