@@ -1,5 +1,5 @@
 - view: spm_fact_rev2
-  sql_table_name: demo-abi-tip.spm_fact
+  sql_table_name: spm.spm_fact
   fields:
 #########################################
 #                                       #
@@ -155,7 +155,7 @@
   - measure: n_propanol_ppm
     type: average
     label: 'n proponal (ppm)'
-    drill_fields: [n_propanol_ppm, Brand_codes]
+    drill_fields: [n_Propanol_ppm, Brand_codes]
     group_label: 'Headspace'
 
   - measure: pentanedione__gc_ppb_

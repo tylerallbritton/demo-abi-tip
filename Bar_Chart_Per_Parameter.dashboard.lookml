@@ -34,7 +34,7 @@
   - name: Mainbarchart
     title: Bar Charts Per Parameter
     type: looker_bar
-    model: spm
+    model: demo_abi_tip
     explore: spm_fact_rev2
     dimensions: [spm_fact_rev2.Brand_codes, spm_fact_rev2.AB_Inbev_Competitors]
     pivots: [spm_fact_rev2.AB_Inbev_Competitors]
