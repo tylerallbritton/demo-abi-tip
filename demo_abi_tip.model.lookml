@@ -12,8 +12,6 @@
 
 - explore: spm_fact
 
-- explore: spm_fact_backup
-
 - explore: spm_yellow_range
 
 - explore: trend_analysis
