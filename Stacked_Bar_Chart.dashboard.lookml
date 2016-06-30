@@ -12,7 +12,7 @@
     type: field_filter
     explore: spm_fact_rev2
     field: spm_fact_rev2.Country
-    default_value: "Brazil"
+    default_value: "Belgium"
 
   - name: year
     title: 'Year'
